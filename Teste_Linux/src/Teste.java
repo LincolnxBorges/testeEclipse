@@ -5,7 +5,6 @@ public class Teste {
 		System.out.println("Hello Git");
 		//Alteração feito pelo Eclipse
 		//Alteração feito pelo Git
-		//Alteração com Walmir
 	}
 
 }
