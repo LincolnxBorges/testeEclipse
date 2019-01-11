@@ -3,7 +3,8 @@ public class Teste {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
-		//Nova altera��o
+		//Alteração feito pelo Eclipse
+		//Alteração feito pelo Git
 
 	}
 
