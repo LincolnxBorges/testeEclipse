@@ -6,6 +6,11 @@ public class Teste {
 		double p1 = 9;
 		double p2 = 7;
 		double notaFinal = (p1 + p2) /2;
-		System.out.println("Sua nota final é: " + notaFinal);
+		
+		if (notaFinal > 6){
+			System.out.println("Aprovado com a nota: " + notaFinal);
+		}else{
+			System.out.println("Reprovado com a nota: " + notaFinal);
+		}		
 	}
 }
