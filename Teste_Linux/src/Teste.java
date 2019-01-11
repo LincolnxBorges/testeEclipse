@@ -11,6 +11,10 @@ public class Teste {
 			System.out.println("Aprovado com a nota: " + notaFinal);
 		}else{
 			System.out.println("Reprovado com a nota: " + notaFinal);
-		}		
+		}
+		
+		for (int i = 1; i < 10; i++) {
+			System.out.println("Valor da variável: " + i);
+		}
 	}
 }
