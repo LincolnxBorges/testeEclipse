@@ -3,6 +3,7 @@ public class Teste {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
+		
 		double p1 = 7;
 		double p2 = 7;
 		double notaFinal = (p1 + p2) /2;
