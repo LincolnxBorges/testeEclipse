@@ -4,8 +4,8 @@ public class Teste {
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
 		
-		double p1 = 4;
-		double p2 = 5;
+		double p1 = 10;
+		double p2 = 10;
 		double notaFinal = (p1 + p2) /2;
 		
 		if (notaFinal > 6){
