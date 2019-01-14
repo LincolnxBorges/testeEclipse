@@ -3,7 +3,7 @@ public class Teste {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
-		double p1 = 9;
+		double p1 = 7;
 		double p2 = 7;
 		double notaFinal = (p1 + p2) /2;
 		
@@ -13,7 +13,7 @@ public class Teste {
 			System.out.println("Reprovado com a nota: " + notaFinal);
 		}
 		
-		for (int i = 1; i < 10; i++) {
+		for (int i = 1; i <= 10; i++) {
 			System.out.println("Valor da variável: " + i);
 		}
 	}
